@@ -12,6 +12,18 @@
       background: #eaf4ff;
       padding: 50px 20px;
     }
+    <section>
+  <h1>Halo, Saya [Nama Kamu]</h1>
+  <h3>Pelajar Teknik Komputer dan Jaringan</h3>
+
+  <p>
+    Perkenalkan, nama saya [Nama Kamu].
+    Saya sedang belajar jaringan komputer,
+    instalasi Wi-Fi, dan pembuatan website.
+    Saya ingin terus mengembangkan kemampuan
+    di bidang teknologi informasi.
+  </p>
+</section>
 
     .kartu {
       background: white;
