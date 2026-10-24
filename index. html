@@ -1,0 +1,31 @@
+
+<section class="pelajaran">
+  <h2>Pelajaran yang Saya Pelajari</h2>
+  <p>
+    Saya mempelajari berbagai materi di bidang
+    Teknik Komputer dan Jaringan, antara lain:
+  </p>
+
+  <h3>1. Jaringan Komputer</h3>
+  <p>
+    Mempelajari cara menghubungkan komputer
+    agar dapat berkomunikasi dan berbagi data.
+  </p>
+
+  <h3>2. Instalasi Wi-Fi</h3>
+  <p>
+    Mempelajari cara memasang dan mengatur
+    jaringan Wi-Fi.
+  </p>
+
+  <h3>3. Pembuatan Kabel LAN</h3>
+  <p>
+    Mempelajari cara menyusun kabel UTP
+    dan memasang konektor RJ45.
+  </p>
+
+  <h3>4. Perangkat Keras Komputer</h3>
+  <p>
+    Mengenal komponen komputer dan fungsinya.
+  </p>
+</section>
