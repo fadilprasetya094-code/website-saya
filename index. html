@@ -4,65 +4,45 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Perkenalan Diri</title>
+  <title>Perkenalan Fadil</title>
   <style>
-<section class="pelajaran">
-  <h2>Pelajaran yang Saya Pelajari</h2>
-  <p>
-    Saya mempelajari berbagai materi di bidang
-    Teknik Komputer dan Jaringan, antara lain:
-  </p>
-
-  <h3>1. Jaringan Komputer</h3>
-  <p>
-    Mempelajari cara menghubungkan komputer
-    agar dapat berkomunikasi dan berbagi data.
-  </p>
-
-  <h3>2. Instalasi Wi-Fi</h3>
-  <p>
-    Mempelajari cara memasang dan mengatur
-    jaringan Wi-Fi.
-  </p>
-
-  <h3>3. Pembuatan Kabel LAN</h3>
-  <p>
-    Mempelajari cara menyusun kabel UTP
-    dan memasang konektor RJ45.
-  </p>
-
-  <h3>4. Perangkat Keras Komputer</h3>
-  <p>
-    Mengenal komponen komputer dan fungsinya.
-  </p>
-</section>
     body {
       font-family: Arial, sans-serif;
       background: #eaf4ff;
       text-align: center;
-      padding: 40px 15px;
+      padding: 30px 15px;
     }
     .kartu {
       background: white;
-      max-width: 400px;
+      max-width: 450px;
       margin: auto;
       padding: 25px;
       border-radius: 15px;
     }
-    h1 { color: #1769aa; }
+    h1, h2 { color: #1769aa; }
   </style>
 </head>
 <body>
   <div class="kartu">
-    <h1>Halo, Saya Nama Kamu!</h1>
-    <h3>Pelajar Teknik Komputer dan Jaringan</h3>
+    <h1>Halo, Saya Fadil!</h1>
+    <h2>Perkenalan Diri</h2>
     <p>
-      Perkenalkan, nama saya Nama Kamu.
-      Saya sedang belajar jaringan komputer,
-      instalasi Wi-Fi, dan pembuatan website.
+      Saya seorang pelajar yang sedang belajar
+      jaringan komputer dan instalasi Wi-Fi.
     </p>
-    <p>Hobi: Otomotif dan bermain layangan.</p>
-    <p>Cita-cita: Menjadi teknisi jaringan.</p>
+
+    <h2>Pelajaran yang Saya Pelajari</h2>
+    <h3>1. Jaringan Komputer</h3>
+    <p>Belajar menghubungkan komputer dan berbagi data.</p>
+
+    <h3>2. Instalasi Wi-Fi</h3>
+    <p>Belajar memasang dan mengatur jaringan Wi-Fi.</p>
+
+    <h3>3. Pembuatan Kabel LAN</h3>
+    <p>Belajar menyusun kabel UTP dan memasang konektor RJ45.</p>
+
+    <h3>4. Perangkat Keras Komputer</h3>
+    <p>Mengenal komponen komputer dan fungsinya.</p>
   </div>
 </body>
 </html>
